@@ -1,4 +1,0 @@
-DopCom
-======
-
-drupal organization pattern

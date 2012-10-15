@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the DOPCom feature.
+ */
+
+include_once 'dopcom.features.inc';
